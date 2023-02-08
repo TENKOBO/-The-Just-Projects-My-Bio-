@@ -1,0 +1,48 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkslateblue;
+}
+#paragraph-p{
+    font-size: 40px;
+}
+#paragraph-z{
+    color: red;
+    font-size: 40px;
+}
+
+.paragraph{
+    font-size: 80px;
+}
+.two{
+    color: blue;
+    border: 10px dotted crimson;
+    background-color: aqua;
+    border-color: dodgerblue;
+    width: 40%;
+    text-transform: uppercase;
+    padding-left: 32px;
+    text-decoration: none;
+    margin: 16px;
+    
+}
+.one{
+    color: green;
+    border: 10px solid red;
+    background-color: chocolate;
+    width: 40%;
+    padding: 32px;
+    font-weight:400;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    margin: 16px;
+    
+}
+a{
+    font-size: 50px;
+}
+body{
+    background: url(lufy\ image\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
